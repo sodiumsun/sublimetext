@@ -1,0 +1,2 @@
+# sublimetext
+sync sublime text
